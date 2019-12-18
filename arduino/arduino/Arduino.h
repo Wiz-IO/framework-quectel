@@ -30,7 +30,7 @@ extern "C"
 {
 #endif
 
-#include "pgmspace.h"
+#include "avr/pgmspace.h"
 #include "binary.h"
 #include "constants.h"
 
